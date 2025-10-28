@@ -1,7 +1,11 @@
-# 🥗 Zomato Clone – Full Stack App
+# 🎥 Zomato Reels – Full Stack App
 
-This is a **Zomato Clone** built using the **MERN stack (MongoDB, Express.js, React, Node.js)**.  
-It includes both the backend (API server) and frontend (React web app) for food delivery and management.
+This project is a **Zomato-inspired full-stack web application** built using the **MERN stack (MongoDB, Express.js, React, Node.js)**.  
+It integrates the **Instagram Reels–like vertical video feed feature** into a food discovery platform — allowing users to **scroll through short food videos**, view food details, and visit restaurant or store pages directly from the feed.  
+
+It includes both:
+- 🖥️ A **backend API server** for authentication, food management, and partner operations  
+- 💻 A **frontend web app** with immersive vertical video scrolling like Reels/TikTok  
 
 ---
 
@@ -15,6 +19,7 @@ It includes both the backend (API server) and frontend (React web app) for food 
 - 🌐 CORS-enabled for React frontend
 
 ### Frontend (React)
+- 🎬 Instagram Reels–like video feed with snapping scroll
 - 🧭 Navigation using React Router
 - 👤 User & Partner login/registration pages
 - 🏠 Home and Saved pages with bottom navigation
@@ -38,7 +43,7 @@ It includes both the backend (API server) and frontend (React web app) for food 
 ## 📁 Folder Structure
 
 ```
-Zomato/
+ZomatoReels/
 │
 ├── backend/
 │   ├── routes/
